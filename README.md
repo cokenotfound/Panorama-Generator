@@ -21,4 +21,4 @@
 ![test2b](https://github.com/user-attachments/assets/1324677b-6162-4e8b-a4f6-6300f4d107d3)
 
 ## Sample Output
-![Uploading panorama_result.jpg…]()
+![panorama_result](https://github.com/user-attachments/assets/e609db12-94c4-4488-9316-0553ad5f866e)

@@ -1,8 +1,7 @@
 # Panorama-Generator
 
 ## Instructions
-1. Run the Project.py program.
-###Required Modules/Libraries
+### Required Modules/Libraries
 1. openCV
 2. Numpy
 3. Matplotlib
